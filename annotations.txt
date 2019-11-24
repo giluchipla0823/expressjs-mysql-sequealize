@@ -1,0 +1,10 @@
+# References
+
+https://medium.com/@prajramesh93/getting-started-with-node-express-and-mysql-using-sequelize-ed1225afc3e0
+
+https://dev.to/nedsoft/performing-crud-with-sequelize-29cf
+
+https://medium.com/infocentric/setup-a-rest-api-with-sequelize-and-express-js-fae06d08c0a7
+
+
+
